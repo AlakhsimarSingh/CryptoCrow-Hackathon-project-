@@ -1,5 +1,5 @@
-                                                                                                   CryptoCrow
-                                                                                  "Crypto Crow: Your Gateway to the Crypto World"
+CryptoCrow
+"Crypto Crow: Your Gateway to the Crypto World"
 
 
 **Overview**
